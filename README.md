@@ -24,22 +24,25 @@ Actualmente enfocado en AWS y en seguir creciendo como Cloud Engineer.
 
 ---
 
-## ☁️ AWS
+## ☁️ AWS Skills
 
-Actualmente trabajo y practico con servicios como:
+<p align="center">
 
-- EC2
-- S3
-- IAM
-- VPC
-- RDS
-- Lambda
-- ECS
-- EKS
-- CloudWatch
-- Route 53
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+
+</p>
 
 ## 🛠️ Tecnologías
 
