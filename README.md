@@ -14,12 +14,12 @@ Actualmente enfocado en AWS y en seguir creciendo como Cloud Engineer.
 ## 🚀 Sobre mí
 
 - ☁️ Enfocado en **AWS Cloud**
-- 🏗️ Aprendiendo y trabajando con **Terraform**
+- 🏗️ Trabajando con **Terraform**
 - 🐍 Automatización con **Python**
 - 🐳 Contenedores con **Docker**
 - 🐧 Administración de **Linux**
 - 💻 Desarrollo con **Laravel, React y Next.js**
-- 📚 Preparándome para certificaciones de AWS
+- 📚 Preparándome para certificaciones de AWS y Azure
 - 🚀 Desarrollando proyectos propios y soluciones Cloud
 
 ---
